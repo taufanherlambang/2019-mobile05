@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StarterChapter05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_pushup">Push up adalah suatu jenis senam kekuatan yang berfungsi untuk menguatkan otot bisep maupun trisep. Posisi awal tidur tengkurap dengan tangan di sisi kanan kiri badan</string>
+    <string name="text_handstand">Handstand adalah sikap berdiri tegak yang bertumpu pada tangan. Gerakan ini adalah salah satu gerakan senam lantai tanpa alat.</string>
+    <string name="text_disp">Dips adalah salah satu latihan yang sangat efektif untuk membentuk otot tubuh bagian atas atau upper body muscle.</string>
 </resources>
